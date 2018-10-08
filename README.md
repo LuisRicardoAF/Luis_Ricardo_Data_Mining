@@ -22,30 +22,40 @@ IMAGENS...
 <p align="center"> Tabela 1 - Definição das Fases espectrais</p>
 
 <p align="center">
-<img src="https://github.com/LuisRicardoAF/Luis_Ricardo_DataScience_Files/blob/master/phases.png">
+<img src="https://github.com/LuisRicardoAF/Luis_Ricardo_Data_Mining/tree/master/Imagens/tabela de fases.png">
 </p>
 
-<p align="center"> Fonte: Blondin (2012)</p>
+<p align="center"> Fonte: Produção do autor</p>
 
 A figura 2 ilustra um quadro para alguns exemplos das imagens de espectros da supernova de tipo Ia SN 1994ae, ilustrando cada espectro em uma de suas fases definidas na tabela 1.
 
 <p align="center"> Figura 2 - Plotagem das Fases da Supernova Ia SN 1994ae</p>
 
 <p align="center">
-<img src="https://github.com/LuisRicardoAF/Luis_Ricardo_DataScience_Files/blob/master/phases.png">
+<img src="https://github.com/LuisRicardoAF/Luis_Ricardo_Data_Mining/tree/master/Imagens/fases.png">
 </p>
 
-<p align="center"> Fonte: Blondin (2012)</p>
+<p align="center"> Fonte: Produção do autor</p>
 
 A figura 2 ilustra uma mudança considerável nos espectros no decorrer do tempo, existe a correlação entre os padrões de supernova na Fase inicial, Pré-Maximo e na fase de Máximo, isto se dá devido ao inicio da explosão e da grande energia inicial gerada no fenômeno. Entretanto, conforme a explosão progride a matéria e gases ionizados são ejetados para o meio interestelar e o remanescente se transforma drasticamente de uma explosão homogênea para uma dispersão do gás. A figura 3 ilustra transformação da explosão da supernova SN 2014J no decorrer do tempo.
 
 <p align="center"> Figura 3 - Evolução da explosão da supernova SN 2014J</p>
 
 <p align="center">
-<img src="https://github.com/LuisRicardoAF/Luis_Ricardo_DataScience_Files/blob/master/phases.png">
+<img src="https://github.com/LuisRicardoAF/Luis_Ricardo_Data_Mining/tree/master/Imagens/gas_dispersao.png">
 </p>
 
-<p align="center"> Fonte: Blondin (2012)</p>
+<p align="center"> Fonte: Produção do autor</p>
+
+Os remanescentes da explosão são considerados como nuvens de gás com grandes concentrações de energia e por isso provém a denominação de fase nebular. Neste mesmo sentido a luminosidade inicial da supernova é menor, como é mostrada na sua curva de luz. A figura 4 ilustra a curva de luz para 23 supernovas de tipo Ia que ilustram a luminosidade máxima e o decaimento no decorrer dos dias.
+
+<p align="center"> Figura 4 - Curvas de luz para 23 supernovas Ia</p>
+
+<p align="center">
+<img src="https://github.com/LuisRicardoAF/Luis_Ricardo_Data_Mining/tree/master/Imagens/curva de luz.png">
+</p>
+
+<p align="center"> Fonte: Branch (1992)</p>
 
 ## Dados
 
@@ -54,10 +64,10 @@ Os espectros de luz das SNs foram obtidos no repositório aberto The Open Supern
 <p align="center"> Tabela 2 - Dados espectrais de supernovas</p>
 
 <p align="center">
-<img src="https://github.com/LuisRicardoAF/Luis_Ricardo_DataScience_Files/blob/master/phases.png">
+<img src="https://github.com/LuisRicardoAF/Luis_Ricardo_Data_Mining/tree/master/Imagens/tabela de dados.png">
 </p>
 
-<p align="center"> Fonte: Blondin (2012)</p>
+<p align="center"> Fonte: Produção do autor</p>
 
 ## Proposta
 
