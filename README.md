@@ -22,7 +22,7 @@ IMAGENS...
 <p align="center"> Tabela 1 - Definição das Fases espectrais</p>
 
 <p align="center">
-<img src="https://github.com/LuisRicardoAF/Luis_Ricardo_Data_Mining/Imagens/tabela de fases.png">
+<img src="https://github.com/LuisRicardoAF/Luis_Ricardo_Data_Mining/blob/master/tabela de fases.png">
 </p>
 
 <p align="center"> Fonte: Produção do autor</p>
@@ -32,7 +32,7 @@ A figura 2 ilustra um quadro para alguns exemplos das imagens de espectros da su
 <p align="center"> Figura 2 - Plotagem das Fases da Supernova Ia SN 1994ae</p>
 
 <p align="center">
-<img src="https://github.com/LuisRicardoAF/Luis_Ricardo_Data_Mining/fases.png">
+<img src="https://github.com/LuisRicardoAF/Luis_Ricardo_Data_Mining/blob/master/fases.png">
 </p>
 
 <p align="center"> Fonte: Produção do autor</p>
@@ -42,7 +42,7 @@ A figura 2 ilustra uma mudança considerável nos espectros no decorrer do tempo
 <p align="center"> Figura 3 - Evolução da explosão da supernova SN 2014J</p>
 
 <p align="center">
-<img src="https://github.com/LuisRicardoAF/Luis_Ricardo_Data_Mining/gas_dispersao.png">
+<img src="https://github.com/LuisRicardoAF/Luis_Ricardo_Data_Mining/blob/master/gas_dispersao.png">
 </p>
 
 <p align="center"> Fonte: Produção do autor</p>
@@ -52,7 +52,7 @@ Os remanescentes da explosão são considerados como nuvens de gás com grandes 
 <p align="center"> Figura 4 - Curvas de luz para 23 supernovas Ia</p>
 
 <p align="center">
-<img src="https://github.com/LuisRicardoAF/Luis_Ricardo_Data_Mining/curva de luz.png">
+<img src="https://github.com/LuisRicardoAF/Luis_Ricardo_Data_Mining/blob/master/curva de luz.png">
 </p>
 
 <p align="center"> Fonte: Branch (1992)</p>
@@ -64,7 +64,7 @@ Os espectros de luz das SNs foram obtidos no repositório aberto The Open Supern
 <p align="center"> Tabela 2 - Dados espectrais de supernovas</p>
 
 <p align="center">
-<img src="https://github.com/LuisRicardoAF/Luis_Ricardo_Data_Mining/tabela de dados.png">
+<img src="https://github.com/LuisRicardoAF/Luis_Ricardo_Data_Mining/blob/master/tabela de dados.png">
 </p>
 
 <p align="center"> Fonte: Produção do autor</p>
