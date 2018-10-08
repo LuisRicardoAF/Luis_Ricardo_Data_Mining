@@ -16,9 +16,7 @@ A importância da análise das supernovas de tipo Ia está na constatação dest
 ## Problema
 Avaliação espectral para identificar as supernovas Ia pode ser feita com acurácia quando o espectro atinge a luz máxima (fase espectral = 0.0 dias), este período tem uma variação de aproximadamente -2.5 a +2.5 dias em relação a luz máxima. Este período foi denominado período de brilho Máximo em [6], pois as classificações em relação aos elementos químicos como o SI e o S são mais evidentes nas supernovas de tipo Ia. 
 
-A questão de complexidade na classificação eleva-se quando os espectros pertencem a períodos distintos de observação, ou seja, quando estão antes do período do brilho máximo e depois do período de brilho máximo. Isto ocorre, pois as características de formato, de elementos e de intensidades das explosões de supernovas mudam completamente. Desta maneira é difícil executar uma avaliação acurada de tipos espectrais, principalmente, na identificação das importantes supernovas Ia.
-A tabela 1 ilustra como as fases de supernovas podem ser divididas no decorrer do tempo.
-IMAGENS...
+A questão de complexidade na classificação eleva-se quando os espectros pertencem a períodos distintos de observação, ou seja, quando estão antes do período do brilho máximo e depois do período de brilho máximo. Isto ocorre, pois as características de formato, de elementos e de intensidades das explosões de supernovas mudam completamente. Desta maneira é difícil executar uma avaliação acurada de tipos espectrais, principalmente, na identificação das importantes supernovas Ia. A tabela 1 ilustra como as fases de supernovas podem ser divididas no decorrer do tempo.
 <p align="center"> Tabela 1 - Definição das Fases espectrais</p>
 
 <p align="center">
@@ -59,7 +57,7 @@ Os remanescentes da explosão são considerados como nuvens de gás com grandes 
 
 ## Dados
 
-Os espectros de luz das SNs foram obtidos no repositório aberto The Open Supernova Catalog [], atualmente mantido por dois pesquisadores do Harvard-Smithsonian Center for Astrophysics (CfA). O acervo é uma coletânea dos dados de 17 bases de espectros mais contribuições individuais. Nele, estão disponíveis espectros de SNs dos tipos Ia, Ib, Ic, II e os tipos classificados apenas por fotometria. A Tabela 2 discrimina a quantidade de dados que foram obtidos para utilização no classificador.
+Os espectros de luz das SNs foram obtidos no repositório aberto The Open Supernova Catalog [7], atualmente mantido por dois pesquisadores do Harvard-Smithsonian Center for Astrophysics (CfA). O acervo é uma coletânea dos dados de 17 bases de espectros mais contribuições individuais. Nele, estão disponíveis espectros de SNs dos tipos Ia, Ib, Ic, II e os tipos classificados apenas por fotometria. A Tabela 2 discrimina a quantidade de dados que foram obtidos para utilização no classificador.
 
 <p align="center"> Tabela 2 - Dados espectrais de supernovas</p>
 
@@ -67,7 +65,23 @@ Os espectros de luz das SNs foram obtidos no repositório aberto The Open Supern
 <img src="https://github.com/LuisRicardoAF/Luis_Ricardo_Data_Mining/blob/master/tabela de dados.png">
 </p>
 
-<p align="center"> Fonte: Produção do autor</p>
+<p align="center"> Fonte: Gillochon et al.(2017)</p>
 
 ## Proposta
 
+Neste sentido, este trabalho propõe uma análise dos dados espectrais de supernovas para a classificação de tipo e de fases de supernovas de forma a criar um sistema seguro que construa relações entre diversas variaveis e possa classificar corretamente cada tipo. Este trabalho busca identificar as principais variaveis nos espectros de supernovas, como intensidades, dispersão, magnitude de brilho, e caracteristicas das séries temporais, por meio de técnicas de mineração de dados, e assim gerar esquemas de classificação para os tipos Ia, Ib, Ic e II.
+
+## Referências
+[1]	BAADE, W; ZWICKY, F. On super-novae. Proceedings of the National  Academy of Sciences, v. 20, n. 5, p. 254-259, 1934.
+
+[2]	BRANCH, D.; TAMMANN, G. A. Type Ia supernovae as standard candles. Annual review of astronomy and astrophysics, v. 30, n. 1, p. 359-389, 1992.
+
+[3]	FILIPPENKO, A. V. Optical spectra of supernovae. Annual Review of Astronomy and Astrophysics, v. 35, n. 1, p. 309-355, 1997.
+
+[4]	RIESS, A. G. et al. 1998. Observational evidence from supernovae for an accelerating universe and a cosmological constant. The Astronomical Journal, v. 116, n. 3, p. 1009, 1998.
+
+[5]	PERLMUTTER, S. et al. 1999. Measurements of omega and lambda from 42 high-redshift supernovae. The Astrophysical Journal, v. 517, n. 2, p. 565, 1999.
+
+[6]	ARANTES FILHO, L. R. Classificação Inteligente de Supernovas utilizando Sistemas de Regras Nebulosas. Dissertação (Mestrado em Computação Aplicada) — Instituto Nacional de Pesquisas Espaciais (INPE), São José dos Campos, 2018.
+
+[7] J. Gillochon, J. Parrent, L. Z. Kelley, and R. Margutti. An open catalog for supernova data. The Astrophysical Journal, 835(1):64, 2017
