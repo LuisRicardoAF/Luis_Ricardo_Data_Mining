@@ -79,14 +79,6 @@ A ordem de visualização dos notebooks é a seguinte:
 
 ### [Manipulando dados brutos de Supernovas](Manipulando dados brutos de Supernovas.ipynb)
 
-### [Relatório_Atividades_Principios_e_Aplicacoes_Mineracao_de_dados](Relatório_Atividades_Principios_e_Aplicacoes_Mineracao_de_dados.ipynb)
-
-### [Extraindo atributos dos DataFrames](Extraindo atributos dos DataFrames.ipynb)
-
-### [Agrupamento de dados - DBscan](Agrupamento de dados - DBscan.ipynb)
-
-### [Redes Neurais para Classificação de Tipos](Redes Neurais para Classificação de Tipos.ipynb)
-
 ## Referências
 [1]	BAADE, W; ZWICKY, F. On super-novae. Proceedings of the National  Academy of Sciences, v. 20, n. 5, p. 254-259, 1934.
 
