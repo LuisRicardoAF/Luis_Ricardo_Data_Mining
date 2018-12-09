@@ -69,7 +69,19 @@ Os espectros de luz das SNs foram obtidos no repositório aberto The Open Supern
 
 ## Proposta
 
-Neste sentido, este trabalho propõe uma análise dos dados espectrais de supernovas para a classificação de tipo e de fases de supernovas de forma a criar um sistema seguro que construa relações entre diversas variaveis e possa classificar corretamente cada tipo. Este trabalho busca identificar as principais variaveis nos espectros de supernovas, como intensidades, dispersão, magnitude de brilho, e caracteristicas das séries temporais, por meio de técnicas de mineração de dados, e assim gerar esquemas de classificação para os tipos Ia, Ib, Ic e II.
+Neste sentido, este trabalho propõe uma análise dos dados espectrais de supernovas para a classificação de tipo e de fases de supernovas de forma a criar um sistema seguro que construa relações entre diversas variaveis e possa classificar corretamente cada tipo. Este trabalho busca identificar as principais componentes dos espectros de supernovas, por meio de técnicas de mineração de dados, e assim gerar esquemas de classificação para os tipos Ia, Ib, Ic e II.
+
+## Solução
+
+Neste trabalho buscamos duas soluções distintas para o problema de classificação e análise de fases espectrais em supernovas. Para análise de fases utilizamos uma abordagem voltada a algoritmos de agrupamento. Para a classificação de tipos utilizamos uma abordagem voltada a redes neurais artificiais para classificar os 4 grupos de supernovas.
+
+A ordem de visualização dos notebooks é a seguinte:
+
+### Manipulando dados brutos de Supernovas
+### Relatório_Atividades_Principios_e_Aplicacoes_Mineracao_de_dados
+### Extraindo atributos dos DataFrames
+### Agrupamento de dados - DBscan
+### Redes Neurais para Classificação de Tipos
 
 ## Referências
 [1]	BAADE, W; ZWICKY, F. On super-novae. Proceedings of the National  Academy of Sciences, v. 20, n. 5, p. 254-259, 1934.
