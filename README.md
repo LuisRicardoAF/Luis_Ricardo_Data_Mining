@@ -1,7 +1,7 @@
 # Luis_Ricardo_Data_Mining
 Repositório para as atividades e trabalho final da disciplina  CAP 359 - Principles and Applications of Data Mining
 
-# Escopo da Disciplina CAP 359 - Principios e Aplicações de Mineração de Dados
+# CAP 359 - Principios e Aplicações de Mineração de Dados
 ## Aluno: Luis Ricardo Arantes Filho - Doutorando CAP INPE
 
 # Classificação e Análise Inteligente de Espectros de Supernovas
@@ -78,7 +78,7 @@ Neste trabalho buscamos duas soluções distintas para o problema de classifica�
 A ordem de visualização dos notebooks é a seguinte:
 
 ### [Manipulando dados brutos de Supernovas](Manipulando_Dados_Brutos.ipynb)
-### [Mineracao_de_dados Espectrais](Mineracao_de_dados.ipynb)
+### [Mineracao de dados Espectrais](Mineracao_de_dados.ipynb)
 ### [Extraindo atributos dos DataFrames](Extraindo_Atributos.ipynb)
 ### [Agrupamento de dados - DBscan](Agrupamento_DBscan.ipynb)
 ### [Redes Neurais para Classificação de Tipos](Redes_Neurais_C_Tipos.ipynb)
