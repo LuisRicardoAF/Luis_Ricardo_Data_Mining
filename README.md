@@ -77,7 +77,7 @@ Neste trabalho buscamos duas soluções distintas para o problema de classifica�
 
 A ordem de visualização dos notebooks é a seguinte:
 
-### [Manipulando dados brutos de Supernovas](Manipulando dados brutos de Supernovas.ipynb)
+### [Manipulando dados brutos de Supernovas](Manipulando Dados Brutos de Supernovas.ipynb)
 
 ## Referências
 [1]	BAADE, W; ZWICKY, F. On super-novae. Proceedings of the National  Academy of Sciences, v. 20, n. 5, p. 254-259, 1934.
