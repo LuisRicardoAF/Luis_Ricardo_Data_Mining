@@ -77,7 +77,7 @@ Neste trabalho buscamos duas soluções distintas para o problema de classifica�
 
 A ordem de visualização dos notebooks é a seguinte:
 
-### Manipulando dados brutos de Supernovas
+### Manipulando dados brutos de Supernovas [a relative link](Manipulando dados brutos de Supernovas.ipynb)
 ### Relatório_Atividades_Principios_e_Aplicacoes_Mineracao_de_dados
 ### Extraindo atributos dos DataFrames
 ### Agrupamento de dados - DBscan
