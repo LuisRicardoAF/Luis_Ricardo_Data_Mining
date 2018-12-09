@@ -77,7 +77,12 @@ Neste trabalho buscamos duas soluções distintas para o problema de classifica�
 
 A ordem de visualização dos notebooks é a seguinte:
 
-### [Manipulando dados brutos de Supernovas](Manipulando Dados Brutos de Supernovas.ipynb)
+### [Manipulando dados brutos de Supernovas](Manipulando_Dados_Brutos.ipynb)
+### [Mineracao_de_dados Espectrais](Mineracao_de_dados.ipynb)
+### [Extraindo atributos dos DataFrames](Extraindo_Atributos.ipynb)
+### [Agrupamento de dados - DBscan](Agrupamento_DBscan.ipynb)
+### [Redes Neurais para Classificação de Tipos](Redes_Neurais_C_Tipos.ipynb)
+
 
 ## Referências
 [1]	BAADE, W; ZWICKY, F. On super-novae. Proceedings of the National  Academy of Sciences, v. 20, n. 5, p. 254-259, 1934.
